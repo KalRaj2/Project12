@@ -6,7 +6,7 @@ body {
 }
 
 h1 {
-  color: navy;                 /* Sets the color of all level 1 headings */
+  color: rgb(96, 128, 0);                 /* Sets the color of all level 1 headings */
   text-align: center;          /* Centers all h1 headings */
   font-size: 45px;             /* Sets the font size for all h1 headings */
 }
