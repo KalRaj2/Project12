@@ -1,8 +1,8 @@
 body {
   background-color: lightblue; /* Sets the background color for the entire page */
   font-family: sans-serif;    /* Sets the default font for all text */
-  margin: 0 auto;              /* Centers content in the middle of the page */
-  width: 40%;                  /* Sets the width of the main content area */
+  margin: 1 auto;              /* Centers content in the middle of the page */
+  width: 20%;                  /* Sets the width of the main content area */
 }
 
 h1 {
