@@ -1,0 +1,29 @@
+body {
+  background-color: lightblue; /* Sets the background color for the entire page */
+  font-family: sans-serif;    /* Sets the default font for all text */
+  margin: 0 auto;              /* Centers content in the middle of the page */
+  width: 80%;                  /* Sets the width of the main content area */
+}
+
+h1 {
+  color: navy;                 /* Sets the color of all level 1 headings */
+  text-align: center;          /* Centers all h1 headings */
+  font-size: 45px;             /* Sets the font size for all h1 headings */
+}
+
+p {
+  font-size: 16px;             /* Sets the font size for all paragraphs */
+  line-height: 1.5;            /* Sets the spacing between lines in paragraphs */
+  color: #333;                 /* Sets a dark gray color for paragraphs using a hex code */
+}
+
+.highlight {
+  background-color: yellow;    /* Styles any element with class="highlight" */
+  font-weight: bold;           /* Makes the text bold */
+}
+
+#footer {
+  border-top: 1px solid gray;  /* Styles the element with id="footer" with a top border */
+  text-align: center;
+  padding-top: 10px;
+}
